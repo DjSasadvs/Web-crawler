@@ -30,6 +30,6 @@ This project uses the Scrapy framework to realize the crawler.
 
 ### Problems
 * If you can't run the crawler, please run the "fetch_free_proxies.py" at first
-* How to voiding-getting-banned [document](http://doc.scrapy.org/en/master/topics/practices.html#avoiding-getting-banned)
+* How to avoiding-getting-banned [document](http://doc.scrapy.org/en/master/topics/practices.html#avoiding-getting-banned)
 
 
